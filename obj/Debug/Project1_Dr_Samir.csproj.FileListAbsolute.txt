@@ -1,0 +1,8 @@
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\bin\Debug\Project1_Dr_Samir.exe.config
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\bin\Debug\Project1_Dr_Samir.exe
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\bin\Debug\Project1_Dr_Samir.pdb
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\obj\Debug\Project1_Dr_Samir.csproj.AssemblyReference.cache
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\obj\Debug\Project1_Dr_Samir.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\obj\Debug\Project1_Dr_Samir.csproj.CoreCompileInputs.cache
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\obj\Debug\Project1_Dr_Samir.exe
+C:\Users\Doctor\source\repos\Project1_Dr_Samir\Project1_Dr_Samir\obj\Debug\Project1_Dr_Samir.pdb
