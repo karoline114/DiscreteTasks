@@ -4,38 +4,39 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project1_Dr_Samir
+namespace Project2_Dr_Samir
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Enter the Frist Number");
+            Console.WriteLine("Enter the First Number : ");
             int x = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("------------------------------");
+            Console.WriteLine("--------------------------------");
 
-            Console.WriteLine("enter second number");
+            Console.WriteLine("Enter Second Number : ");
             int y = int.Parse(Console.ReadLine());
 
-            bool isPrime;
-            Console.WriteLine("------------------------------");
+            int sum;
 
-            for (int j = x; j <= y; j++)
+            Console.WriteLine("--------------------------------");
+
+            for (int i = x; i <= y; i++)
             {
-                isPrime = true;
-                for (int i = 2; i <= j / 2; i++)
+                sum = 0;
+
+                for (int j = 1; j <= i / 2; j++)
                 {
-                    if (j % i == 0)
+                    if (i % j == 0)
                     {
-                        isPrime = false;
-                        break;
+                        sum += j;
                     }
+
                 }
-                if (isPrime)
+                if (sum == i)
                 {
-                    Console.WriteLine(j);
+                    Console.WriteLine(sum);
                 }
             }
         }
